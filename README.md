@@ -1,7 +1,9 @@
 # Auto-tuning Hyper-Parameters of SGD RS by Genetics Algorithm
 This project contains the source code used to evaluate the performance of GFASGD algorithm.
 
-[![Conference](https://img.shields.io/badge/Conference-2022-008000.svg)](https://coinsconf.com)
+Code from the paper titled "Auto-tuning HyperParameters of SGD Matrix Factorization-Based Recommender Systems Using Genetic Algorithm".
+
+Best Student Paper Award of 2022 IEEE International Conference on Omni-layer Intelligent Systems (COINS) [![Conference](https://img.shields.io/badge/Conference-2022-008000.svg)](https://coinsconf.com)
 
 The source code has been structured has follows:
 
