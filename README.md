@@ -5,7 +5,7 @@ Code from the paper titled "Auto-tuning HyperParameters of SGD Matrix Factorizat
 
 Best Student Paper Award of 2022 IEEE International Conference on Omni-layer Intelligent Systems (COINS) [![Conference](https://img.shields.io/badge/Conference-2022-008000.svg)](https://coinsconf.com)
 
-![Flowchart](Img/Flowchart.pdf)
+![Flowchart](Img/Flowchart.png)
 
 The source code has been structured has follows:
 
