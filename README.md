@@ -5,6 +5,8 @@ Code from the paper titled "Auto-tuning HyperParameters of SGD Matrix Factorizat
 
 Best Student Paper Award of 2022 IEEE International Conference on Omni-layer Intelligent Systems (COINS) [![Conference](https://img.shields.io/badge/Conference-2022-008000.svg)](https://coinsconf.com)
 
+![Flowchart](Img/Flowchart.pdf)
+
 The source code has been structured has follows:
 
 - **Preprocessing:** we only save the defined entries in sparse coordinate format. The dataset is divided into two sets, i.e., train and test sets.
