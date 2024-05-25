@@ -5,6 +5,18 @@ Code from the paper titled "Auto-tuning HyperParameters of SGD Matrix Factorizat
 
 Best Student Paper Award of 2022 IEEE International Conference on Omni-layer Intelligent Systems (COINS) [![Conference](https://img.shields.io/badge/Conference-2022-008000.svg)](https://coinsconf.com)
 
+
+## Installation
+
+To set up the project clone the repository and install the required packages:
+
+```bash
+git clone https://github.com/Habibirani/Auto-tuning-Hyper-Parameters-of-SGD-Recommender-Systems-by-Genetics-Algorithm.git
+cd Auto-tuning-Hyper-Parameters-of-SGD-Recommender-Systems-by-Genetics-Algorithm
+conda env create -f environment.yml
+
+```
+
 ![Flowchart](Img/Flowchart.png)
 
 The source code has been structured has follows:
@@ -19,6 +31,14 @@ The source code has been structured has follows:
 
 
 Implementing the proposed genetic algorithm on two datasets (MovieLens 100K and MovieLens 1M) verifies the assertion about the performance. The same code has been used to perform experiments within MovieLens100K and MovieLens1M datasets.
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
 
 <!-- CITATION -->
 ## Citation
